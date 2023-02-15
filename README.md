@@ -22,7 +22,7 @@ Note: GitHub username is **sez27** because I made this account for another class
 - pull the files from the remote repository
 - create a new branch
 - edit or add files
-- commit and add comments about the changes 
+- commit and add message about the changes 
 - push the changes
 - go on GitHub to look at pull requests
 - make sure the changes are good and merge the branches
