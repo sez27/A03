@@ -28,7 +28,7 @@ Note: GitHub username is **sez27** because I made this account for another class
 - make sure the changes are good and merge the branches
 
 ## Glossary
-- **Branch**:
+- **Branch**: a seperate line from the main development line where changes can be made without affecting the main line
 - **Clone**: creates a copy of a repository to a new directory
 - **Commit**: records changes that contains the current contents of the index with a log message to the repository 
 - **Fetch**: downloads files and refs from one repository to another. Usually used to update remote repo contents to local
